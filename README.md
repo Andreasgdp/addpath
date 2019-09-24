@@ -1,0 +1,2 @@
+# addpath
+A command in windows that lets the user add any path to system path just by navigating to the folder, opening the terminal in that folder and write the command `addpath` in the terminal. A terminal could be CMD or PowerShell.
