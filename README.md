@@ -5,7 +5,7 @@ A command in windows that lets the user add any path to environment user variabl
 See this link for information and to install:
 https://www.technlg.net/windows/download-windows-resource-kit-tools/
 
-Direct download: <a herf = 'https://www.microsoft.com/en-us/download/confirmation.aspx?id=17657'>here</a>.
+Direct download: https://www.microsoft.com/en-us/download/confirmation.aspx?id=17657
 
 The content of the tools needs to be added to system path so that "pathman" can be used for this program to work.
 
